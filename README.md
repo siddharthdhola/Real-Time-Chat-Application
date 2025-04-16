@@ -15,6 +15,3 @@ This is a real-time chat application built with Spring Boot and WebSocket.
 
 ## Author:
 Siddharth
-
-## License:
-MIT
